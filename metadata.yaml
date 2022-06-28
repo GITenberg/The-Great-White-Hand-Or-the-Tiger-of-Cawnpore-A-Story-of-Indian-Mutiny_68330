@@ -1,11 +1,16 @@
 _repo: The-Great-White-Hand-Or-the-Tiger-of-Cawnpore-A-Story-of-Indian-Mutiny_68330
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68330-h/images/cover.jpg
 creator:
   author:
     agent_name: Muddock, James Edward
     gutenberg_agent_id: '54723'
     url: http://www.gutenberg.org/2009/agents/54723
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68330#The-Great-White-Hand-Or-the-Tiger-of-Cawnpore-A-Story-of-Indian-Mutiny
 gutenberg_issued: '2022-06-16'
 identifiers:
   gutenberg: '68330'
